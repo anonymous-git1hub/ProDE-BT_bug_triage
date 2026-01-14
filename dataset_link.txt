@@ -1,0 +1,12 @@
+For Mozilla & Eclipse:
+
+A. Lamkanfi, J. Pérez, and S. Demeyer, “The Eclipse and Mozilla Defect Tracking Dataset: A Genuine Dataset for Mining Bug Information,” in Proceedings of the 10th Working Conference on Mining Software Repositories (MSR), San Francisco, CA, USA: IEEE, 2013, pp. 203–206. doi: 10.1109/MSR.2013.6624028.
+Link: https://github.com/ansymo/msr2013-bug_dataset
+
+
+
+
+For Chromium DeepTriage:
+
+C. Crawford, “DeepTriage: A Dataset for Automated Google Chromium Bug Triaging,” 
+Link: https://www.kaggle.com/datasets/crawford/deeptriage
